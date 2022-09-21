@@ -1,5 +1,5 @@
 .banner {
-    height: 100vh; /* vh: 1% of the viewport height (depending on the device) */
+    height: 30vh; /* vh: 1% of the viewport height (depending on the device) */
     color: white;
     background: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.6) 50%),url('https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2');
     background-size: cover;
